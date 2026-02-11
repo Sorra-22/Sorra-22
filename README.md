@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sarvesh — a Bioinformatics graduate student specializing in RNA-seq and single-cell transcriptomics analysis. I work at the intersection of biology and computation, building reproducible pipelines, analysis workflows, and data-driven tools for genomic research. My interests include gene expression analysis, functional genomics, and AI/ML applications in biological data.<br><br>I enjoy translating complex biological datasets into interpretable insights and building tools that make analysis more accessible to researchers.
+Hi, I’m Sarvesh, an MS student in Bioinformatics with a foundation in pharmaceutical sciences and hands-on experience in cancer-relevant transcriptomics, NGS pipeline development, and computational modeling. Skilled in bulk and single-cell RNA-seq analysis, reproducible workflow design (Nextflow, Docker), and statistical modeling applied to oncology datasets. Passionate about leveraging computational approaches to advance cancer biology and translational research.
 
 
 ## 🌐 Socials:
